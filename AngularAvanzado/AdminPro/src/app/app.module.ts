@@ -3,7 +3,7 @@ import { NgModule } from '@angular/core';
 
 // Rutas
 
-APP_ROUTES
+APP_ROUTES;
 
 import { AppComponent } from './app.component';
 import { LoginComponent } from './login/login.component';
