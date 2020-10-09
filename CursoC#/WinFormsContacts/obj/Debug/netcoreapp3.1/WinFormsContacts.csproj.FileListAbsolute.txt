@@ -1,0 +1,13 @@
+C:\sistemas\C#\CursoC#\WinFormsContacts\bin\Debug\netcoreapp3.1\WinFormsContacts.exe
+C:\sistemas\C#\CursoC#\WinFormsContacts\bin\Debug\netcoreapp3.1\WinFormsContacts.deps.json
+C:\sistemas\C#\CursoC#\WinFormsContacts\bin\Debug\netcoreapp3.1\WinFormsContacts.runtimeconfig.json
+C:\sistemas\C#\CursoC#\WinFormsContacts\bin\Debug\netcoreapp3.1\WinFormsContacts.runtimeconfig.dev.json
+C:\sistemas\C#\CursoC#\WinFormsContacts\bin\Debug\netcoreapp3.1\WinFormsContacts.dll
+C:\sistemas\C#\CursoC#\WinFormsContacts\bin\Debug\netcoreapp3.1\WinFormsContacts.pdb
+C:\sistemas\C#\CursoC#\WinFormsContacts\obj\Debug\netcoreapp3.1\WinFormsContacts.csprojAssemblyReference.cache
+C:\sistemas\C#\CursoC#\WinFormsContacts\obj\Debug\netcoreapp3.1\WinFormsContacts.AssemblyInfoInputs.cache
+C:\sistemas\C#\CursoC#\WinFormsContacts\obj\Debug\netcoreapp3.1\WinFormsContacts.AssemblyInfo.cs
+C:\sistemas\C#\CursoC#\WinFormsContacts\obj\Debug\netcoreapp3.1\WinFormsContacts.csproj.CoreCompileInputs.cache
+C:\sistemas\C#\CursoC#\WinFormsContacts\obj\Debug\netcoreapp3.1\WinFormsContacts.dll
+C:\sistemas\C#\CursoC#\WinFormsContacts\obj\Debug\netcoreapp3.1\WinFormsContacts.pdb
+C:\sistemas\C#\CursoC#\WinFormsContacts\obj\Debug\netcoreapp3.1\WinFormsContacts.genruntimeconfig.cache
