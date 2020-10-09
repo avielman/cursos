@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\sistemas\\C#\\CursoC#\\WinFormsContacts\\WinFormsContacts.csproj",
+      "projectUniqueName": "C:\\sistemas\\cursos\\CursoC#\\WinFormsContacts\\WinFormsContacts.csproj",
       "projectName": "WinFormsContacts",
-      "projectPath": "C:\\sistemas\\C#\\CursoC#\\WinFormsContacts\\WinFormsContacts.csproj",
+      "projectPath": "C:\\sistemas\\cursos\\CursoC#\\WinFormsContacts\\WinFormsContacts.csproj",
       "packagesPath": "C:\\Users\\hvielman\\.nuget\\packages\\",
-      "outputPath": "C:\\sistemas\\C#\\CursoC#\\WinFormsContacts\\obj\\",
+      "outputPath": "C:\\sistemas\\cursos\\CursoC#\\WinFormsContacts\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hvielman\\AppData\\Roaming\\NuGet\\NuGet.Config",
